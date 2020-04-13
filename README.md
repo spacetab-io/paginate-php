@@ -9,7 +9,7 @@ Simple async paginator based on Amphp.
 ## Installation
 
 ```bash
-composer install spacetab-io/paginate-php
+composer require spacetab-io/paginate
 ```
 
 ## Usage

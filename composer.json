@@ -1,5 +1,5 @@
 {
-  "name": "spacetab-io/paginate-php",
+  "name": "spacetab-io/paginate",
   "description": "Async PHP pagination. Created for Amphp.",
   "type": "library",
   "license": "MIT",
